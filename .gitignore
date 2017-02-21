@@ -1,0 +1,31 @@
+# Eclipse
+/.classpath
+/.project
+/.settings
+/*.jardesc
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# NetBeans
+/nbproject
+
+# vim
+.*.sw[a-p]
+
+# Maven
+/build.xml
+/target
+/dependency-reduced-pom.xml
+
+# various other potential build files
+/build
+/bin
+/dist
+/manifest.mf
+
+# Mac filesystem dust
+.DS_Store
