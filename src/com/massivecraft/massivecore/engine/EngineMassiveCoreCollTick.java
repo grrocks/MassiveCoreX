@@ -28,7 +28,7 @@ public class EngineMassiveCoreCollTick extends EngineAbstract
 	@Override
 	public Long getPeriod()
 	{
-		return 1L;
+		return 500L;
 	}
 	
 	// -------------------------------------------- //
